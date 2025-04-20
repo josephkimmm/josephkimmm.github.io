@@ -33,10 +33,10 @@ github_username:  josephkimmm
 #googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+# icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,11 +52,12 @@ additional_links:
 about_profile_image: /Users/josephkim/Documents/GitHub/josephkimmm.github.io/images/증명사진.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  백엔드 개발자로 일하고 싶은 김두현입니다.
-
-  현재 쿠팡, 무신사, 배달의민족과 같은 대형 고객사가 사용하는 월 평균 2~3억 건 규모의 Email 서비스를 개발, 배포, 운영하고 있습니다. 또한, 신규 서비스 **Notification Hub**와 **친구톡 Upgrade**의 설계 및 개발에 참여하며, 프로젝트의 초기 기획부터 서비스 출시까지 전 과정을 경험했습니다.
-
-  팀의 생산성을 높이기 위해 개발 프로세스를 개선하고, 효율적인 협업 환경을 구축하는 데 집중하고 있습니다. 이를 위해 레거시 코드 리팩토링을 통해 가독성과 유지보수성을 개선하여 개발 속도를 높였으며, 신규 입사자가 빠르게 적응할 수 있도록 개발 가이드를 정리했습니다. 또한, PR 템플릿을 도입하여 코드 리뷰 프로세스를 효율화하고, 서비스 장애 히스토리를 문서화하여 사전 대응력을 강화하는 등 팀 전체의 개발 효율을 극대화하는 환경을 만들고 있습니다.
+  안녕하세요. 신입 백엔드 개발자 김두현입니다!
+  - 블로그, 깃허브 등 꾸준한 기록 활동을 톻해 꾸준함을 증명할 수 있습니다.
+  - 모르는 것을 빠르게 질문하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
+  - 유지보수하기 좋은 코드가 누구든지 이해할 수 있는, 좋은 코드라고 생각합니다.
+  - 
+  
 
   **기술 스택**
   - 프레임워크: `Spring Boot 2/3`
@@ -74,6 +75,36 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+
+          title: Project name
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link Text
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+
+          title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
