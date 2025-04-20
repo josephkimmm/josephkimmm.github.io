@@ -6,32 +6,31 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: 김두현
+title: Back-end 
+email: bluemosk84@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 010-3455-2842
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://github.com/josephkimmm
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+github_username:  josephkimmm
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#orcid_username: 0000-0000-0000-0000
+#googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
@@ -50,15 +49,22 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: /Users/josephkim/Documents/GitHub/josephkimmm.github.io/images/증명사진.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+백엔드 개발자로 일하고 싶은 김두현입니다.
+
+현재 쿠팡, 무신사, 배달의민족과 같은 대형 고객사가 사용하는 월 평균 2~3억 건 규모의 Email 서비스를 개발, 배포, 운영하고 있습니다. 또한, 신규 서비스 Notification Hub와 친구톡 Upgrade의 설계 및 개발에 참여하며, 프로젝트의 초기 기획부터 서비스 출시까지 전 과정을 경험했습니다.
+
+팀의 생산성을 높이기 위해 개발 프로세스를 개선하고, 효율적인 협업 환경을 구축하는 데 집중하고 있습니다. 이를 위해 레거시 코드 리팩토링을 통해 가독성과 유지보수성을 개선하여 개발 속도를 높였으며, 신규 입사자가 빠르게 적응할 수 있도록 개발 가이드를 정리했습니다. 또한, PR 템플릿을 도입하여 코드 리뷰 프로세스를 효율화하고, 서비스 장애 히스토리를 문서화하여 사전 대응력을 강화하는 등 팀 전체의 개발 효율을 극대화하는 환경을 만들고 있습니다.
+
+    <strong>기술 스택<strong>
+      - 프레임워크 - <mark>Spring Boot 2/3</mark>
+      - 언어 - <mark>Java 8/11/21</mark>
+      - 테스트 - <mark>Junit 4/5</mark>
+      - 웹서버 - <mark>Nginx</mark>
+      - DB(Hibernate) - <mark>Oracle</mark>, <mark>MongoDB</mark>, <mark>MyBatis</mark>, <mark>JPA</mark>
+      - 기타 - <mark>OpenAPI Specification3</mark>, <mark>GitHub</mark>
 
 content:
   - title: Projects # Title for the section
