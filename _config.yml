@@ -53,17 +53,17 @@ about_profile_image: /Users/josephkim/Documents/GitHub/josephkimmm.github.io/ima
 about_content: | # this will include new lines to allow paragraphs
 
   안녕하세요. 신입 백엔드 개발자 김두현입니다!
-  - 블로그, 깃허브 등 꾸준한 기록 활동을 톻해 `꾸준함`을 증명할 수 있습니다.
+  - 블로그, 노션, 깃허브 등 꾸준한 기록 활동을 톻해 `꾸준함`을 증명할 수 있습니다.
   - 모르는 것을 빠르게 질문하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
+  - 혼자가 아닌 함께 만들 수 있다고 생각하기에 다양한 팀 구성원들과 적극적으로 커뮤니케이션하며 협업하는 것을 추구합니다.
   - 유지보수하기 좋은 코드가 누구든지 이해할 수 있는, `좋은 코드`라고 생각합니다.
-  - 
   
 
   **기술 스택**
   - 프레임워크: `Spring Boot 2/3`
   - 언어: `Java`
   - DB(Hibernate): `Oracle`, `MyBatis`, `JPA`
-  - 기타: `GitHub`, `Notion`
+  - 기타: `GitHub`, `Notion` 등
 
 content:
   - title: Projects # Title for the section
@@ -130,7 +130,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 자바 토이 콘솔 프로젝트
+        title: 자바 콘솔 기반 토이 프로젝트
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         quote: >
