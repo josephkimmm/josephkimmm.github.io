@@ -72,16 +72,35 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
+        title: 카카오톡 조사 챗봇
+        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link 
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+
+
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: 학원 스프링 부트 프로젝트
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link_text: Link 
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
@@ -93,13 +112,13 @@ content:
         title: Feelio
         link: https://github.com/ParkJuseung/Feelio
         link_text: Link
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # additional_links:
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #     icon: fab fa-github
+        #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
@@ -110,7 +129,7 @@ content:
                       # other value (or no value) means no border will be displayed
         title: 오늘어때?
         link: https://github.com/josephkimmm/Spring-Web-Project
-        link_text: Link Text
+        link_text: Link
         quote: >
           다양한 번개 모임을 즉석으로 모집하고 참여할 수 있는 플랫폼
         description: | # this will include new lines to allow paragraphs
@@ -130,12 +149,12 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: 포스코
         sub_title: 코크스 생산설비 정비
         caption: 2022 - 2023
 
-      - layout: right
+      - layout: left
         title: 대한민국 공군
         sub_title: 지상 장비 정비사 및 공정 화물 의장사
         caption: 2014 - 2022
@@ -144,7 +163,7 @@ content:
     layout: list
     content:
       
-      - layout: top-right
+      - layout: top-left
         title: 방송통신대학교
         sub_title: 첨단공학부 AI학과
         caption: 2025 02 - 현재
@@ -153,7 +172,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
       
-      - layout: top-right
+      - layout: top-left
         title: 쌍용교육센터 강남
         sub_title: Java Full-Stack 개발자 양성과정
         caption: 2024-12-03 - 2025-05-26
@@ -162,7 +181,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
 
-      - layout: top-right
+      - layout: top-left
         title: 학점은행제
         sub_title: 경영학과
         caption: 2017 - 2021
