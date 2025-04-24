@@ -49,11 +49,11 @@ github_username:  josephkimmm
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpeg
+about_profile_image: ./images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
   안녕하세요. 신입 백엔드 개발자 김두현입니다!
-  - 블로그, 노션, 깃허브 등 꾸준한 기록 활동을 톻해 `꾸준함`을 증명할 수 있습니다.
+  - 블로그, 노션, 깃허브 등 꾸준한 기록 활동을 통해 `꾸준함`을 증명할 수 있습니다.
   - 모르는 것을 빠르게 `질문`하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
   - 혼자가 아닌 함께 만들 수 있다고 생각하기에 다양한 팀 구성원들과 적극적으로 커뮤니케이션하며 `협업`하는 것을 추구합니다.
   - 유지보수하기 좋은 코드가 누구든지 이해할 수 있는, `좋은 코드`라고 생각합니다.
@@ -73,7 +73,7 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: 카카오톡 조사 챗봇
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        link: https://github.com/josephkimmm/Kakao-Chatbot.git
         link_text: Link 
         # additional_links:
         #   - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -83,9 +83,9 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          단체 채팅방에서 티셔츠 번호, 사이즈, 수량을 간편하게 선택하고 신청할 수 있도록 만든 카카오톡 조사 챗봇
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          단체 채팅시 반복적으로 발생하는 티셔츠 신청, 사이즈/수량 조사 과정을 간소화하기 위해 개발된 카카오톡 챗봇 시스템입니다. 사용자는 챗봇과의 대화에서 이름을 입력하고, 티셔츠 번호와 사이즈, 수량을 버튼 기반으로 선택하여 신청할 수 있으며,신청 후에는 본인의 신청 내역을 확인, 수정, 삭제할 수 있습니다.
 
 
       - layout: left
@@ -109,7 +109,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Feelio
+        title: Feelio(AI 기반 감정 분석 일기장)
         link: https://github.com/ParkJuseung/Feelio
         link_text: Link
         # additional_links:
@@ -120,9 +120,9 @@ content:
         #     icon: fab fa-github
         #     url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          AI 기반 감정 분석 일기 앱으로, 사용자의 감정 흐름을 시각화하고 맞춤형 콘텐츠를 제공하는 감성 관리 플랫폼
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          사용자가 일기를 작성하면 AI가 내용을 분석해 감정, 활동, 원인을 분석하고, 이를 기반으로 감정 통계, 시각화(달력/히트맵/그래프), 추천 활동·음악·챗봇 응답까지 제공하는 감정 추적형 일기 및 정서 케어 플랫폼입니다.
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -144,7 +144,7 @@ content:
         quote: >
           콘솔 기반 자바 기초 프로그래밍 
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          제 웹 또는 모바일 기반 숙박 플랫폼에서 제공하는 회원가입, 로그인, 예약, 포인트 관리 등 핵심 기능을 구현하여 학습 목적의 클론 토이 프로젝트입니다.
 
   - title: Experience
     layout: list
