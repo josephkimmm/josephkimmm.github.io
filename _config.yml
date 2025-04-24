@@ -49,13 +49,13 @@ github_username:  josephkimmm
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
   안녕하세요. 신입 백엔드 개발자 김두현입니다!
   - 블로그, 노션, 깃허브 등 꾸준한 기록 활동을 톻해 `꾸준함`을 증명할 수 있습니다.
-  - 모르는 것을 빠르게 질문하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
-  - 혼자가 아닌 함께 만들 수 있다고 생각하기에 다양한 팀 구성원들과 적극적으로 커뮤니케이션하며 협업하는 것을 추구합니다.
+  - 모르는 것을 빠르게 `질문`하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
+  - 혼자가 아닌 함께 만들 수 있다고 생각하기에 다양한 팀 구성원들과 적극적으로 커뮤니케이션하며 `협업`하는 것을 추구합니다.
   - 유지보수하기 좋은 코드가 누구든지 이해할 수 있는, `좋은 코드`라고 생각합니다.
   
 
