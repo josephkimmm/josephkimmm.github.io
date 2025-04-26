@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 김두현
-title: Back-end 
+title: Resume
 email: bluemosk84@gmail.com
 # email_title: Email (Email title override)
 ##phone: 010-3455-2842
@@ -52,7 +52,7 @@ github_username:  josephkimmm
 about_profile_image: ./images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  안녕하세요. 신입 백엔드 개발자 김두현입니다!
+  안녕하세요. 꿈을 현실로 만드는, 끊임없이 성장하는 신입 개발자 김두현입니다.
   - 블로그, 노션, 깃허브 등 꾸준한 기록 활동을 통해 `꾸준함`을 증명할 수 있습니다.
   - 모르는 것을 빠르게 `질문`하고, 자신의 의견을 드러내는 것에 불편함이 없습니다.
   - 혼자가 아닌 함께 만들 수 있다고 생각하기에 다양한 팀 구성원들과 적극적으로 커뮤니케이션하며 `협업`하는 것을 추구합니다.
@@ -130,9 +130,9 @@ content:
         link: https://github.com/josephkimmm/Spring-Web-Project
         link_text: Link
         quote: >
-          다양한 번개 모임을 즉석으로 모집하고 참여할 수 있는 플랫폼
+          다양한 모임을 즉석으로 모집하고 참여할 수 있는 플랫폼
         description: | # this will include new lines to allow paragraphs
-          번개모임을 즐겨 찾는 20~40대 직장인 및 대학생들을 대상으로 회원가입을 진행한 회원의 위치와 날씨를 기반으로 취미, 목적 등을 충족 시킬 수 있는 서비스를 기획하였습니다. 
+          모임을 즐겨 찾는 20~40대 직장인 및 대학생들을 대상으로 회원가입을 진행한 회원의 위치와 날씨를 기반으로 취미, 목적 등을 충족 시킬 수 있는 서비스를 기획하였습니다. 
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
@@ -143,7 +143,7 @@ content:
         quote: >
           콘솔 기반 자바 기초 프로그래밍 
         description: | # this will include new lines to allow paragraphs
-          제 웹 또는 모바일 기반 숙박 플랫폼에서 제공하는 회원가입, 로그인, 예약, 포인트 관리 등 핵심 기능을 구현하여 학습 목적의 클론 토이 프로젝트입니다.
+          웹 또는 모바일 기반 숙박 플랫폼에서 제공하는 회원가입, 로그인, 예약, 포인트 관리 등 핵심 기능을 구현하여 학습 목적의 클론 토이 프로젝트입니다.
 
   - title: 경력사항(Experience)
     layout: list
@@ -192,9 +192,15 @@ content:
   - title: 자기소개(A Little More About Me)
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+      안녕하세요! ‘꿈을 현실로 만드는 개발자’를 꿈꾸는 신입 백엔드 개발자입니다.
+      다양한 꿈을 품고 자라왔고, 그 꿈을 현실로 만들어줄 수 있는 힘이 기술에 있다는 것을 깨달아 소프트웨어 개발자의 길을 선택했습니다.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      약 8년간 공군과 포스코에서 정비사로 근무하며, 꼼꼼함과 문제 해결력을 키웠습니다. 이후 Java, Spring Framework, Oracle, JavaScript, HTML/CSS, Git 등을 중심으로 개발 역량을 다졌습니다.
+      다양한 프로젝트를 통해 객체지향 설계(OOP), MVC 아키텍처 적용, RESTful API 연동, 데이터베이스 설계 및 최적화, 세션 기반 인증 처리, 비동기 통신(Ajax), UI 개선(JSP, JavaScript) 등 실무에 필요한 기술들을 활용하여 개발 경험을 쌓았습니다.
+
+      새로운 기술을 배우는 것을 두려워하지 않고, 작게라도 매일 성장하려는 자세를 중요하게 생각합니다.
+      앞으로도 꾸준한 학습과 도전을 통해, 사용자에게 가치 있는 서비스를 만들어내는 개발자가 되고자 합니다.
+      감사합니다!
 
       
 
