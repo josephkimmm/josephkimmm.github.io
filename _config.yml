@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: 김두현
-title: Resume
+title: 신입 개발자
 email: bluemosk84@gmail.com
 # email_title: Email (Email title override)
 ##phone: 010-3455-2842
@@ -60,7 +60,7 @@ about_content: | # this will include new lines to allow paragraphs
   
 
   **기술 스택(Skills)**
-  - 프레임워크: `Spring Boot 2/3`
+  - 프레임워크: `Spring`, `Spring Boot`
   - 언어: `Java`, `JavaScript`, `HTML`, `CSS`
   - DB(Hibernate): `Oracle`, `MyBatis`, `JPA`
   - 기타: `GitHub`, `Notion` 등
@@ -158,7 +158,7 @@ content:
         sub_title: 항공기 지상 장비 정비사 및 공정 화물 의장사
         caption: 2014 - 2022
 
-  - title: 학력(Education)
+  - title: 교육사항(Education)
     layout: list
     content:
       
